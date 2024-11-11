@@ -5,7 +5,7 @@
 
 1. Copie o script abaixo:
 ```javascript
-javascript:(function(){if(window.toSalvoScriptRunning){alert('Script já está rodando!');return;}const s=document.createElement('script');s.src='https://speak.crsp.space/miau.js';document.body.appendChild(s);window.toSalvoScriptRunning=true;})();
+javascript:(function(){if(window.toSalvoScriptRunning){alert('Script já está rodando!');return;}const s=document.createElement('script');s.src='https://speak.crsp.space/miau2.js';document.body.appendChild(s);window.toSalvoScriptRunning=true;})();
 ```
 
 2. Clique com o botão direito na barra de favoritos do seu navegador
